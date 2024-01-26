@@ -21,7 +21,7 @@ const Guide = () => {
                 </div>
             </div>
 
-            <div className="mx-container padding-container relative w-full">
+            <div className="flexCenter max-container relative w-full">
                 <Image 
                     src="/boat.png"
                     alt="boat"
